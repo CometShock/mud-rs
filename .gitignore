@@ -1,6 +1,6 @@
 
-# schema-type/target/
-# schema-type/Cargo.lock
+schema-type/target/
+schema-type/Cargo.lock
 
 /.env
 .env.local
