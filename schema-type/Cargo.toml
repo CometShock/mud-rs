@@ -9,3 +9,5 @@ name = "schema_type"
 path = "src/lib.rs"
 
 [dependencies]
+ethers = { version = "2" }
+serde = { version = "1" }

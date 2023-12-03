@@ -1,0 +1,3 @@
+cargo:rustc-link-lib=static=ring-core
+cargo:rustc-link-lib=static=ring-test
+cargo:rustc-link-search=native=/home/artemis/mud-rs/schema-type/target/debug/build/ring-7d34b74b20f2bbe8/out
